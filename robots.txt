@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scriptisaachav.github.io/sitemap.xml
